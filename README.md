@@ -6,9 +6,8 @@
 
 I've a Bachelor's Degree in Business Management and...
 
-- 🔭 I’m currently working on my ***Programming & Math skills*** to augmentate my business competency
-- 🌱 I’m currently learning the ***Data Science Professional Certificate*** Specialization offered by IBM on Coursera
-
+- 🔭 Currently working on my ***Programming & Math skills*** to augmentate my business competency
+- 🌱 Also in progress to complete the ***Data Science Professional Certificate*** Specialization offered by IBM and ***Mathematics for Machine Learning*** Specialization offered by Deeplearning.AI 
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
